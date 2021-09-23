@@ -4,3 +4,5 @@ a = {
     "c": "isfgajfdfdkjfhijhjkbkjgbsjkbsjbsjshbksjhsgkjghskg",
 }
 print("hello world")
+
+b = [1, 2, 3, 4]
