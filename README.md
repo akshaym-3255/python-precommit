@@ -39,9 +39,16 @@ commit files
 git commit -m "your message"
 ```
 and see the magic black will format the files according to rules.
-update test.py will look like 
+updated test.py will look like 
 ```python
+a = {
+    "a": 4,
+    "b": "hgfjgskjdfakjdfhlkjhdkjnkfdjkkdjhdfkjfkjf",
+    "c": "isfgajfdfdkjfhijhjkbkjgbsjkbsjbsjshbksjhsgkjghskg",
+}
+print("hello world")
 
+b = [1, 2, 3, 4]
 ```
 
 
