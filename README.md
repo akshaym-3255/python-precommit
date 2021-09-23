@@ -1,4 +1,4 @@
-# Object Oriented Programming
+# Python Precommit black and flake8 integretion
 
 This repository contains the setup for python formatter black and linter flake8 can directly be used in any project.
 ## Run Locally
